@@ -1,5 +1,5 @@
 # Observations on the original 12-word corpus, for the "Observing the Probabilities" blog.
-# Same model, seed and init order as benigo.py, so the numbers match the notebook.
+# Same model, seed and init order as bengio.py, so the numbers match the notebook.
 import math
 import torch
 import torch.nn.functional as F
